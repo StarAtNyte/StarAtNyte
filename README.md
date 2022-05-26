@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**StarAtNyte/StarAtNyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,10 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <!--<img align="left" alt="Nitiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StarAtNyte&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<img align="left" alt="Nitiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StarAtNyte&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarAtNyte&layout=compact&theme=radical&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StarAtNyte&theme=dark)](https://git.io/streak-stats)
--->
